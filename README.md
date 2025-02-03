@@ -1,5 +1,6 @@
 ## <h1>MERN BLOG PROJECT</h1>
 ## <p>Frontend Part</p>
+## <p>Backend Part</p> <a href="https://github.com/Nawaf-Rayhan585/MERN-BLOG-Project-Backend">https://github.com/Nawaf-Rayhan585/MERN-BLOG-Project-Backend</a>
 
 <h3>✨ Discover and share your passions on our vibrant blog platform! ✨</h3>
 <p>Connect with fellow enthusiasts, explore diverse topics across categories like 📚 education, 💼 business, and 🔬 science. ✍️ Easily create and publish your own engaging blog posts, and interact with others through comments and direct messages. 💬  Our user-friendly interface makes it simple to manage your content – ✏️ edit, 🗑️ delete, and keep your blog fresh and exciting. Join the community today and let your voice be heard! 📣</p>
